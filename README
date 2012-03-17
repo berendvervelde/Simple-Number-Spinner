@@ -1,0 +1,10 @@
+FIRST TEST PROJECT
+
+A simple jquery plugin: number spinner. 
+Currently this plugin adds two buttons to a text input. With these buttons any number can be in- or decreased.
+This plugin doesn's feature any css, but that's basically the point.
+
+TODO:
+add cursor and scroll mouse support
+add html and css demo files
+add support for buttons before the input, currently the buttons are added after the input. 
